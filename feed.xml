@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <atom:link href="http://mothorialcomic.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <title>Toon Juice</title>
+        <description>Toon Juice is about a group of college friends working at a groovy juice bar… and the mystery that permeates their seemingly everyday lives.t</description>
+        <link>http://mothorialcomic.github.io/toonjuice</link>
+        <dc:creator>Lauren Pierre</dc:creator>
+        <language>en-us</language>
+        <image>
+            <title>Toon Juice</title>
+            <link>http://mothorialcomic.github.io/toonjuice</link>
+            <url>http://mothorialcomic.github.io/your_content/images/banner.png</url>
+            <width>100</width>
+            <height>36</height>
+        </image>
+        <item>
+            <title>Page 1</title>
+            <dc:creator>Lauren Pierre</dc:creator>
+            <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+            <link>http://mothorialcomic.github.io/comic/001/</link>
+            <guid isPermaLink="true">http://mothorialcomic.github.io/comic/001/</guid>
+            <category type="storyline">Volume 1</category>
+            <category type="character">Farmer</category>
+            <category type="tag">Volume 1</category>
+            <description><![CDATA[<p><img src="http://mothorialcomic.github.io/your_content/comics/001/toon_juice_001.png" alt_text="This is what GMOs do to your apples"></p>
+
+<hr>
+
+<p>WHOOPS! Caught red-pawed! ...and poor Tamberlane is having a heck of a time today, isn't she? 🙁</p>
+
+<p>Thanks again to Chaon for letting me use Cur in his Patreon cameo!</p>
+]]></description>
+        </item>
+    </channel>
+</rss>
